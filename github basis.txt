@@ -1,0 +1,69 @@
+- Git basics: init, clone, add, commit, push, pull, fetch, remote
+- Branching: create, checkout, delete, list, naming conventions
+- Merge strategies: merge, rebase, fast-forward, squash
+- Branching models: GitHub Flow, GitFlow, trunk-based development
+- Commit best practices: atomic commits, conventional commits, messages
+- Staging area and the index
+- Resolving merge conflicts and rebasing conflicts
+- Tags and annotated vs lightweight tags
+- Semantic versioning (SemVer)
+- Changelog generation and release notes
+- .gitignore and managing untracked files
+- Submodules and subtrees
+- Hooks (client-side and server-side)
+- Cherry-pick and revert
+- Stash usage and workflows
+- Pull requests: creation, review, merging, templates
+- Code review practices: approvals, comments, suggestions
+- Protected branches and required status checks
+- CODEOWNERS and required reviewers
+- Continuous Integration (CI) concepts
+- GitHub Actions: workflows, jobs, steps, runners
+- Actions syntax and workflow YAML
+- Marketplace actions and reusable workflows
+- Matrix builds, job dependencies, and concurrency
+- Hosted runners vs self-hosted runners
+- Secrets management in Actions and environments
+- Artifacts: upload, download, retention
+- Caching dependencies to speed builds
+- Continuous Deployment (CD) strategies
+- Deployment environments and environment protection rules
+- Deployment strategies: blue-green, canary, rolling, shadowing
+- Infrastructure as Code (IaC): Terraform, CloudFormation
+- Configuration management: Ansible, Chef, Puppet
+- Containerization: Dockerfile, image build, multi-stage builds
+- Container registries: GitHub Container Registry (GHCR), Docker Hub
+- Kubernetes: manifests, Helm charts, operators
+- GitOps principles and tools (Argo CD, Flux)
+- Secrets management and vaults (GitHub Secrets, HashiCorp Vault)
+- Security scanning: code scanning (CodeQL), static analysis
+- Secret scanning, token scanning, and leak prevention
+- Dependency management and Dependabot
+- Vulnerability alerts and advisories
+- License compliance and SPDX
+- Audit logging and compliance controls
+- Access control: teams, roles, permissions, SSO, SAML
+- Personal access tokens (PATs), fine-grained tokens, OAuth apps
+- GitHub Apps and integrations, webhooks, REST & GraphQL APIs
+- CLI tools: git, gh (GitHub CLI)
+- Packages and registries: npm, Maven, NuGet via GitHub Packages
+- Artifact lifecycle and retention policies
+- Release management: drafts, release assets, GitHub Releases
+- Issue tracking: issues, labels, milestones, templates
+- Project management: Projects (classic), Projects (beta), kanban boards
+- Templates: ISSUE_TEMPLATE, PULL_REQUEST_TEMPLATE, CONTRIBUTING.md
+- Community files: README.md, CODE_OF_CONDUCT, SECURITY.md
+- Discussions, wikis, and community engagement
+- Monitoring and observability: metrics, logging, tracing, alerts
+- Test automation: unit, integration, e2e, regression testing
+- Test reporting and coverage integration
+- Performance testing and load testing
+- Canary analysis and automated rollbacks
+- Cost optimization and resource management
+- Backup, disaster recovery, and rollback plans
+- Metrics and SLO/SLI/SLA definitions
+- Compliance standards: SOC2, ISO, GDPR considerations
+- Best practices: automation, small PRs, trunk stability, CI-fast feedback
+- Onboarding, docs, and knowledge sharing
+- Migration strategies and repository consolidation
+- Scaling orgs: repository policies, templates, and governance
