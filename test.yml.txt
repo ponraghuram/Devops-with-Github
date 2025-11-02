@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is my test file for the demo
+=======
+This is my second change I have made in the file
+>>>>>>> d443d6e9c276308d438eca29aa33f73324a8d490
